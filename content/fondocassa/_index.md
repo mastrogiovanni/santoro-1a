@@ -22,6 +22,9 @@ draft: false
 | Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Alessandro U. | 25.00 | | 20/10/2022 | 
 | Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Flavia V. | 25.00 | | 19/10/2022 | 
 | Acquisto pittura classe e battiscopa |  | 42.00 | 20/10/2022 |
+| Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Daniele G. | 25.00 | | 21/10/2022 | 
+| Versamento SocietAPErfetta(2)+Saperi e Sapori(3)  Lorenzo S. | 5.00 | | 21/10/2022 | 
+| Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Stella Z. | 25.00 | | 21/10/2022 | 
 ||
 | *Totale Residuo* | 303.00 | | 21/10/2022 |
 ||
