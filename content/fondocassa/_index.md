@@ -26,7 +26,7 @@ draft: false
 | Versamento SocietAPErfetta(2)+Saperi e Sapori(3)  Lorenzo S. | 5.00 | | 21/10/2022 | 
 | Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Stella Z. | 25.00 | | 21/10/2022 | 
 ||
-| *Totale Residuo* | 303.00 | | 21/10/2022 |
+| *Totale Residuo* | 358.00 | | 24/10/2022 |
 ||
 {{< /table >}}
 
