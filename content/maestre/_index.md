@@ -11,7 +11,7 @@ Potete contattare le maestre tramite e-mail ai seguenti indirizzi:
 |   |  |  |
 |---------|--------|--------|
 | Rolo Manuela | rolo.manuela.dsp@icannacelli.edu.it | Italiano, Storia, Arte, Musica, Motoria |
-| Lina |  | Matematica |
+| Ruscio Nicolina | ruscio.nicolina.dsp@icannacelli.edu.it | Matematica |
 | Lustrissimi Giovanni | lustrissimi.giovanni.dsp@icannacelli.edu.it | Religione |
 {{< /table >}}
 
