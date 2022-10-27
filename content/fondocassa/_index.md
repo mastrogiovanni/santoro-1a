@@ -20,13 +20,20 @@ draft: false
 | Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Gabriele M. | 25.00 | | 19/10/2022 | 
 | Versamento fondo(15)+SocietAPErfetta(5)+Saperi e Sapori(0)  Lorenzo S. | 20.00 | | 19/10/2022 | 
 | Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Alessandro U. | 25.00 | | 20/10/2022 | 
-| Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Flavia V. | 25.00 | | 19/10/2022 | 
+| Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Flavia V. | 25.00 | | 20/10/2022 | 
 | Acquisto pittura classe e battiscopa |  | 42.00 | 20/10/2022 |
 | Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Daniele G. | 25.00 | | 21/10/2022 | 
 | Versamento SocietAPErfetta(2)+Saperi e Sapori(3)  Lorenzo S. | 5.00 | | 21/10/2022 | 
 | Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Stella Z. | 25.00 | | 21/10/2022 | 
+| Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Valerio C. | 25.00 | | 25/10/2022 | 
+| Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Alessia C. | 25.00 | | 25/10/2022 | 
+| Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Gabriele R. | 25.00 | | 25/10/2022 | 
+| Versamento fondo(15)+SocietAPErfetta(0)+Saperi e Sapori(3)  Aurora S. | 18.00 | | 25/10/2022 | 
+| Acquisto 2 scaffali Kallax IKEA |  | 120.00 | 26/10/2022 |
+| Acquisto kit pronto soccorso |  | 14.00 | 26/10/2022 |
+| Acquisto cassetta pronto soccorso |  | 34.00 | 26/10/2022 |
 ||
-| *Totale Residuo* | 358.00 | | 24/10/2022 |
+| *Totale Residuo* | 283.00 | | 27/10/2022 |
 ||
 {{< /table >}}
 
