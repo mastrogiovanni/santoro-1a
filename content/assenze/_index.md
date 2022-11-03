@@ -21,3 +21,15 @@ weight: 0
 {{< hint danger >}}
 - Mio figlio è assente venerdì, lunedì, martedì e mercoledì. Siccome in mezzo ci sono sabato e domenica il bimbo è assente 6 giorni: porta **certificato medico**
 {{< /hint >}}
+
+
+---
+title: "Entrate Posticipate"
+weight: -10
+---
+
+*Regole Generali*
+
+In caso di visite mediche, vaccini, ecc. è consentita l'entrata posticipata entro le ore 10,30.
+E' opportuno avvisare telefonicamente la scuola al n. 06 4065943 per permettere l'esatto conteggio dei pasti della mensa.
+
