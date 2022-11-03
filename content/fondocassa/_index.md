@@ -32,8 +32,10 @@ draft: false
 | Acquisto 2 scaffali Kallax IKEA |  | 120.00 | 26/10/2022 |
 | Acquisto kit pronto soccorso |  | 14.00 | 26/10/2022 |
 | Acquisto cassetta pronto soccorso |  | 34.00 | 26/10/2022 |
+| Acquisto n. 2 maniglie cattedra |  | 2.00 | 26/10/2022 |
+| Pagamento quota gita "Saperi e Sapori" Regione Lazio |  | 63.00 | 03/11/2022 |
 ||
-| *Totale Residuo* | 283.00 | | 27/10/2022 |
+| *Totale Residuo* | 218.00 | | 03/11/2022 |
 ||
 {{< /table >}}
 
