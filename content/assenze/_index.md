@@ -24,8 +24,7 @@ weight: 0
 
 
 ---
-title: "Entrate Posticipate"
-weight: -10
+Entrate Posticipate
 ---
 
 *Regole Generali*
