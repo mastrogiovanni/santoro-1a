@@ -35,8 +35,9 @@ draft: false
 | Acquisto n. 2 maniglie cattedra |  | 2.00 | 26/10/2022 |
 | Versamento fondo(15)+SocietAPErfetta(7)+Saperi e Sapori(3)  Federico C. | 25.00 | | 03/11/2022 | 
 | Pagamento quota gita "Saperi e Sapori" Regione Lazio |  | 63.00 | 03/11/2022 |
+| Acquisto n. 2 libri progetto #ioleggoperché |  | 23.90 | 10/11/2022 |
 ||
-| *Totale Residuo* | 243.00 | | 03/11/2022 |
+| *Totale Residuo* | 219.10 | | 10/11/2022 |
 ||
 {{< /table >}}
 
