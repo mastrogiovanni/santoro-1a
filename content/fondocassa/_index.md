@@ -37,8 +37,11 @@ draft: false
 | Pagamento quota gita "Saperi e Sapori" Regione Lazio |  | 63.00 | 03/11/2022 |
 | Acquisto n. 2 libri progetto #ioleggoperché |  | 23.90 | 10/11/2022 |
 | Acquisto rotolone scottex 800 strappi |  | 4.90 | 17/11/2022 |
+| Versamento quota gita Villaggio Babbo Natale  Valerio G. | 12.00 | | 07/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Aurora S. | 12.00 | | 07/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Flavia V. | 12.00 | | 07/12/2022 | 
 ||
-| *Totale Residuo* | 214.20 | | 10/11/2022 |
+| *Totale Residuo* | 250.20 | | 07/12/2022 |
 ||
 {{< /table >}}
 
