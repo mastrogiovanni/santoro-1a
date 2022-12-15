@@ -45,8 +45,15 @@ draft: false
 | Versamento 2a quota compleanni  Lorenzo S. | 10.00 | | 07/12/2022 |
 | Versamento 2a quota compleanni  Aurora S. | 10.00 | | 07/12/2022 |
 | Regalo Lorenzo S. | | 50.00| 07/12/2022 |
+| Versamento 2a quota compleanni  Francesco B. | 10.00 | | 12/12/2022 |
+| Versamento 2a quota compleanni  Niccolò L. | 10.00 | | 12/12/2022 |
+| Regalo Francesco B. | | 50.00| 12/12/2022 |
+| Regalo Martina C. | | 50.00| 12/12/2022 |
+| Regalo Daniele G. | | 50.00| 13/12/2022 |
+| Versamento 2a quota compleanni  Lisa G. | 10.00 | | 14/12/2022 |
+| Versamento 3a quota compleanni  Alessandro U. | 10.00 | | 14/12/2022 |
 ||
-| *Totale Residuo* | 260,00 | | 07/12/2022 |
+| *Totale Residuo* | 150,00 | | 15/12/2022 |
 ||
 {{< /table >}}
 
