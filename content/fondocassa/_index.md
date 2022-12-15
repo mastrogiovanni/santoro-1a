@@ -40,8 +40,19 @@ draft: false
 | Versamento quota gita Villaggio Babbo Natale  Valerio G. | 12.00 | | 07/12/2022 | 
 | Versamento quota gita Villaggio Babbo Natale  Aurora S. | 12.00 | | 07/12/2022 | 
 | Versamento quota gita Villaggio Babbo Natale  Flavia V. | 12.00 | | 07/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Francesco B. | 12.00 | | 12/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Valerio C. | 12.00 | | 12/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Niccolò L. | 12.00 | | 12/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Daniele G. | 12.00 | | 13/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Federico C. | 12.00 | | 14/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Lorenzo S. | 12.00 | | 14/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Alessandro U. | 12.00 | | 14/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Liam G. | 12.00 | | 15/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Lisa G. | 12.00 | | 15/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Luca M. | 12.00 | | 15/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Stella Z. | 12.00 | | 15/12/2022 | 
 ||
-| *Totale Residuo* | 250.20 | | 07/12/2022 |
+| *Totale Residuo* | 370.20 | | 15/12/2022 |
 ||
 {{< /table >}}
 
