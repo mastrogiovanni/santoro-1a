@@ -51,6 +51,24 @@ draft: false
 | Versamento quota gita Villaggio Babbo Natale  Lisa G. | 12.00 | | 15/12/2022 | 
 | Versamento quota gita Villaggio Babbo Natale  Luca M. | 12.00 | | 15/12/2022 | 
 | Versamento quota gita Villaggio Babbo Natale  Stella Z. | 12.00 | | 15/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Francesco B. | 12.00 | | 19/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Valerio G. | 12.00 | | 19/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Lisa G. | 12.00 | | 19/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Martina C. | 12.00 | | 20/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Matteo C. | 12.00 | | 20/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Liam G. | 12.00 | | 20/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Flavia V. | 12.00 | | 20/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Mariele A. | 12.00 | | 21/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Valerio C. | 12.00 | | 21/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Federico C. | 12.00 | | 21/12/2022 |
+| Versamento quota pullman Villaggio Babbo Natale  Daniele G. | 12.00 | | 21/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Niccolò L. | 12.00 | | 21/12/2022 |
+| Versamento quota pullman Villaggio Babbo Natale  Luca M. | 12.00 | | 21/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Gabriele R. | 12.00 | | 21/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Lorenzo S. | 12.00 | | 21/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Aurora S. | 12.00 | | 21/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Gabriele M. | 12.00 | | 22/12/2022 | 
+| Versamento quota pullman Villaggio Babbo Natale  Stella Z. | 12.00 | | 22/12/2022 | 
 ||
 | *Totale Residuo* | 370.20 | | 15/12/2022 |
 ||
