@@ -52,8 +52,28 @@ draft: false
 | Regalo Daniele G. | | 50.00| 13/12/2022 |
 | Versamento 2a quota compleanni  Lisa G. | 10.00 | | 14/12/2022 |
 | Versamento 3a quota compleanni  Alessandro U. | 10.00 | | 14/12/2022 |
+| Versamento 2a quota compleanni  Gabriele M. | 10.00 | | 15/12/2022 |
+| Versamento 2a quota compleanni  Matteo C. | 10.00 | | 20/12/2022 |
+| Regalo Matteo C. | | 50.00| 20/12/2022 |
+| Regalo Alessia C. | | 50.00| 20/12/2022 |
+| Versamento 3a quota compleanni  Luca M. | 10.00 | | 21/12/2022 |
+| Regalo Valerio C. | | 50.00| 21/12/2022 |
+| Versamento 3a quota compleanni  Stella Z. | 10.00 | | 22/12/2022 |
+| Regalo Liam G. | | 50.00| 22/12/2022 |
+| Versamento 3a quota compleanni  Lorenzo S. | 2.00 | | 23/12/2022 |
+| Versamento 4a quota compleanni  Alessandro U. | 10.00 | | 23/12/2022 |
+| Versamento 3a quota compleanni  Liam G. | 10.00 | | 11/01/2023 |
+| Versamento 3a quota compleanni  Matteo C. | 10.00 | | 11/01/2023 |
+| Versamento 3a quota compleanni  Aurora S. | 10.00 | | 12/01/2023 |
+| Versamento 3a quota compleanni  Lisa G. | 10.00 | | 12/01/2023 |
+| Regalo Aurora S. | | 50.00| 12/01/2023 |
+| Versamento 3a quota compleanni  Daniele G. | 10.00 | | 13/01/2023 |
+| Versamento 3a quota compleanni  Flavia V. | 10.00 | | 13/01/2023 |
+| Versamento 3a quota compleanni  Mariele A. | 10.00 | | 16/01/2023 |
+| Versamento 3a quota compleanni  Valerio C. | 10.00 | | 16/01/2023 |
+| Versamento 3a quota compleanni  Alessia C. | 10.00 | | 17/01/2023 |
 ||
-| *Totale Residuo* | 150,00 | | 15/12/2022 |
+| *Totale Residuo* | 42,00 | | 18/01/2023 |
 ||
 {{< /table >}}
 
