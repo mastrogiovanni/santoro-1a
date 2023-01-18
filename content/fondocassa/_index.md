@@ -67,8 +67,19 @@ draft: false
 | Versamento quota pullman Villaggio Babbo Natale  Gabriele R. | 12.00 | | 21/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Lorenzo S. | 12.00 | | 21/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Aurora S. | 12.00 | | 21/12/2022 | 
+| Versamento fondo cassa  Mariele A. | 5.00 | | 21/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Gabriele M. | 12.00 | | 22/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Stella Z. | 12.00 | | 22/12/2022 | 
+| Versamento fondo cassa  Luca M. | 5.00 | | 22/12/2022 |
+| Versamento fondo cassa  Stella Z. | 5.00 | | 22/12/2022 | 
+| Versamento fondo cassa  Lorenzo S. | 5.00 | | 23/12/2022 | 
+| Versamento fondo cassa  Matteo C. | 5.00 | | 11/01/2023 | 
+| Versamento fondo cassa  Liam G. | 5.00 | | 11/01/2023 |
+| Versamento fondo cassa  Lisa G. | 5.00 | | 12/01/2023 | 
+| Versamento fondo cassa  Aurora S. | 5.00 | | 12/01/2023 | 
+| Versamento fondo cassa  Daniele G. | 5.00 | | 13/01/2023 | 
+| Versamento fondo cassa  Flavia V. | 5.00 | | 13/01/2023 | 
+| Versamento fondo cassa  Valerio C. | 5.00 | | 16/01/2023 | 
 ||
 | *Totale Residuo* | 370.20 | | 15/12/2022 |
 ||
