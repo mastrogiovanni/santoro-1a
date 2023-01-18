@@ -89,6 +89,7 @@ draft: false
 | Versamento fondo cassa  Liam G. | 5.00 | | 11/01/2023 |
 | Versamento fondo cassa  Lisa G. | 5.00 | | 12/01/2023 | 
 | Versamento fondo cassa  Aurora S. | 5.00 | | 12/01/2023 | 
+| Acquisto rotolone scottex 800 strappi |  | 4.90 | 12/01/2023 |
 | Versamento fondo cassa  Daniele G. | 5.00 | | 13/01/2023 | 
 | Versamento fondo cassa  Flavia V. | 5.00 | | 13/01/2023 | 
 | Versamento fondo cassa  Valerio C. | 5.00 | | 16/01/2023 | 
