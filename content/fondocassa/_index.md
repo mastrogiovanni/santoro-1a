@@ -50,7 +50,9 @@ draft: false
 | Versamento quota gita Villaggio Babbo Natale  Liam G. | 12.00 | | 15/12/2022 | 
 | Versamento quota gita Villaggio Babbo Natale  Lisa G. | 12.00 | | 15/12/2022 | 
 | Versamento quota gita Villaggio Babbo Natale  Luca M. | 12.00 | | 15/12/2022 | 
-| Versamento quota gita Villaggio Babbo Natale  Stella Z. | 12.00 | | 15/12/2022 | 
+| Versamento quota gita Villaggio Babbo Natale  Stella Z. | 12.00 | | 15/12/2022 |
+| Restituzione quota Api Daniele G. |  | 7.00 | 15/12/2022 |
+| Acquisto regali Natale maestre |  | 10.00 | 17/12/2022 |
 | Versamento quota pullman Villaggio Babbo Natale  Francesco B. | 12.00 | | 19/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Valerio G. | 12.00 | | 19/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Lisa G. | 12.00 | | 19/12/2022 | 
@@ -58,6 +60,8 @@ draft: false
 | Versamento quota pullman Villaggio Babbo Natale  Matteo C. | 12.00 | | 20/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Liam G. | 12.00 | | 20/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Flavia V. | 12.00 | | 20/12/2022 | 
+| Acquisto buste regali e biglietti maestre |  | 6.70 | 20/12/2022 |
+| Versamento quote progetto Api restituite dalla scuola per emissione PagoPA | 63.00 | | 20/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Mariele A. | 12.00 | | 21/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Valerio C. | 12.00 | | 21/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Federico C. | 12.00 | | 21/12/2022 |
@@ -68,11 +72,19 @@ draft: false
 | Versamento quota pullman Villaggio Babbo Natale  Lorenzo S. | 12.00 | | 21/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Aurora S. | 12.00 | | 21/12/2022 | 
 | Versamento fondo cassa  Mariele A. | 5.00 | | 21/12/2022 | 
+| Contributo bottiglia Babbo Natale con altre classi |  | 2.00 | 21/12/2022 |
+| Acquisto regali Babbo Natale |  | 22.40 | 21/12/2022 |
+| Acquisto regalo Natale maestro Giovanni |  | 7.00 | 21/12/2022 |
+| Acquisto regali collaboratrici scolastiche |  | 10.00 | 22/12/2022 |
 | Versamento quota pullman Villaggio Babbo Natale  Gabriele M. | 12.00 | | 22/12/2022 | 
 | Versamento quota pullman Villaggio Babbo Natale  Stella Z. | 12.00 | | 22/12/2022 | 
 | Versamento fondo cassa  Luca M. | 5.00 | | 22/12/2022 |
 | Versamento fondo cassa  Stella Z. | 5.00 | | 22/12/2022 | 
 | Versamento fondo cassa  Lorenzo S. | 5.00 | | 23/12/2022 | 
+| Restituzione quote api+fattoria Alessandro U. per emissione pagoPA individuale |  | 10.00 | 23/12/2022 |
+| Pagamento pagoPA gita fattoria+comm.2,50 |  | 62,50 | 23/12/2022 |
+| Pagamento pagoPA mostra Api+comm.2,50 |  | 121,50 | 23/12/2022 |
+| Pagamento pagoPA pullman gita Babbo Natale+comm.2,50 |  | 239,90 | 23/12/2022 |
 | Versamento fondo cassa  Matteo C. | 5.00 | | 11/01/2023 | 
 | Versamento fondo cassa  Liam G. | 5.00 | | 11/01/2023 |
 | Versamento fondo cassa  Lisa G. | 5.00 | | 12/01/2023 | 
@@ -81,7 +93,7 @@ draft: false
 | Versamento fondo cassa  Flavia V. | 5.00 | | 13/01/2023 | 
 | Versamento fondo cassa  Valerio C. | 5.00 | | 16/01/2023 | 
 ||
-| *Totale Residuo* | 370.20 | | 15/12/2022 |
+| *Totale Residuo* | 38.30 | | 18/01/2023 |
 ||
 {{< /table >}}
 
