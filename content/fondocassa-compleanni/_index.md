@@ -72,8 +72,10 @@ draft: false
 | Versamento 3a quota compleanni  Mariele A. | 10.00 | | 16/01/2023 |
 | Versamento 3a quota compleanni  Valerio C. | 10.00 | | 16/01/2023 |
 | Versamento 3a quota compleanni  Alessia C. | 10.00 | | 17/01/2023 |
+| Versamento 3a quota compleanni  Francesco B. | 10.00 | | 19/01/2023 |
+| Versamento 3a quota compleanni  Martina C. | 10.00 | | 20/01/2023 |
 ||
-| *Totale Residuo* | 42,00 | | 18/01/2023 |
+| *Totale Residuo* | 62,00 | | 23/01/2023 |
 ||
 {{< /table >}}
 
