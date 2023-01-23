@@ -9,7 +9,7 @@ weight: 5
     <img src="https://it.pearson.com/content/dam/region-core/italy/pearson-italy/images/Proposte-editoriali/Pearson-materiali-novit%C3%A0-editoriali-BillyBot.png" alt="billy-bot-stories" width="350px"/>
 </a>
 
-<a href="https://www.capitello.it/libri/che-bello-e-imparare/">
+<a href="https://www.capitello.it/libri/che-bello-e-imparare/](https://digimparoprimaria.capitello.it/app/collections/TILELIV1_CBEIMP">
     <img src="https://www.capitello.it/wp-content/uploads/libri-images/Che_bello_IMPARARE_1A_metodo-1-214x265.jpg" alt="che-bello-imparare" width="170px"/>
 </a>
 
