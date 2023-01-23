@@ -10,7 +10,7 @@ weight: 5
 </a>
 
 <a href="https://digimparoprimaria.capitello.it/app/collections/TILELIV1_CBEIMP">
-    <img src="https://www.capitello.it/wp-content/uploads/libri-images/Che_bello_IMPARARE_1A_metodo-1-214x265.jpg" alt="che-bello-imparare" width="170px"/>
+    <img src="https://digimparoprimaria.capitello.it/app/collections/TILELIV1_CBEIMP" alt="che-bello-imparare" width="170px"/>
 </a>
 
 Per visulaizzare il libro digitale segui il link: https://digimparoprimaria.capitello.it/app/collections/TILELIV1_CBEIMP
