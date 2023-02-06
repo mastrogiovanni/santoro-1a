@@ -93,8 +93,13 @@ draft: false
 | Versamento fondo cassa  Daniele G. | 5.00 | | 13/01/2023 | 
 | Versamento fondo cassa  Flavia V. | 5.00 | | 13/01/2023 | 
 | Versamento fondo cassa  Valerio C. | 5.00 | | 16/01/2023 | 
+| Versamento fondo cassa  Francesco B. | 5.00 | | 19/01/2023 |
+| Versamento fondo cassa  Alessandro U. | 5.00 | | 19/01/2023 |
+| Versamento fondo cassa  Alessia C. | 5.00 | | 25/01/2023 |
+| Versamento fondo cassa  Martina C. | 5.00 | | 27/01/2023 |
+| Versamento fondo cassa  Giulia B. | 5.00 | | 02/02/2023 |
 ||
-| *Totale Residuo* | 38.30 | | 18/01/2023 |
+| *Totale Residuo* | 68.30 | | 06/02/2023 |
 ||
 {{< /table >}}
 
