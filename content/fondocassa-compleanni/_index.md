@@ -77,8 +77,9 @@ draft: false
 | Versamento 3a quota compleanni  Giulia B. | 10.00 | | 03/02/2023 |
 | Versamento 3a quota compleanni  Valerio G. | 10.00 | | 15/02/2023 |
 | Regalo Mariele A. | | 50.00| 14/03/2023 |
+| Versamento 4a quota compleanni  Luca M. | 10.00 | | 11/04/2023 |
 ||
-| *Totale Residuo* | 32,00 | | 11/04/2023 |
+| *Totale Residuo* | 42,00 | | 11/04/2023 |
 ||
 {{< /table >}}
 
