@@ -98,8 +98,13 @@ draft: false
 | Versamento fondo cassa  Alessia C. | 5.00 | | 25/01/2023 |
 | Versamento fondo cassa  Martina C. | 5.00 | | 27/01/2023 |
 | Versamento fondo cassa  Giulia B. | 5.00 | | 02/02/2023 |
+| Versamento fondo cassa  Valerio G. | 5.00 | | 15/02/2023 |
+| Pagamento quota festa di Carnevale |  | 24.10 | 17/02/2023 |
+| Versamento resto cena di classe | 5.00 | | 22/02/2023 |
+| Acquisto cancelleria festa del papà |  | 4.40 | 16/03/2023 |
+| Acquisto piante regalo Pasqua maestre |  | 35.00 | 07/04/2023 |
 ||
-| *Totale Residuo* | 68.30 | | 06/02/2023 |
+| *Totale Residuo* | 14.80 | | 11/04/2023 |
 ||
 {{< /table >}}
 
